@@ -8,7 +8,7 @@ _--English to follow-->_
 
 - 🌱 J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
 
-- 👯 Mon apprentissage repose sur __une succession de projets__ complets (front-end & back-end)
+- 👯 Mon apprentissage repose sur __une succession de projets__ complets (front-end & back-end).
 
 - 🛹 Je recherche __une alternance en entreprise__ pour compléter ma formation, à compter de mars 2023.
 
@@ -20,6 +20,8 @@ _--English to follow-->_
 
 ### I'm Julie and I'm a future software developer!
 
+- 😄 Pronouns: She/Her/Elle
+
 - 🤸‍♂️ I’m studying software development at Ada Tech School, an inclusive & feminist school!
 
 - 🌱 I’m learning HTML, CSS, JavaScript, Python, PHP, SQL...
@@ -27,7 +29,5 @@ _--English to follow-->_
 - 👯 I’m working on group full-stack project (front-end & back-end).
 
 - 📫 How to reach me: jem.baret@gmail.com
-
-- 😄 Pronouns: She/Her/Elle
 
 - ⚡ Fun fact: As a former journalist, I do have experience in digital content and in the media industry, but also in caritative institutions engaged against discriminations or improving access to culture. I'm also a piano and a guitar player. I love astrology, tattoo art and reading.
