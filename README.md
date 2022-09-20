@@ -8,7 +8,7 @@ _--English to follow-->_
 
 - 🌱 J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
 
-- 👯 Mon apprentissage repose sur une __succession de projets__ complets (front-end & back-end)
+- 👯 Mon apprentissage repose sur __une succession de projets__ complets (front-end & back-end)
 
 - 🛹 Je recherche __une alternance en entreprise__ pour compléter ma formation, à compter de mars 2023.
 
