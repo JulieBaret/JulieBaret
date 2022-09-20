@@ -15,11 +15,8 @@ _--English to follow-->_
 - 📫 Me contacter : jem.baret@gmail.com
 
 - ⚡ À propos : Riche d'expérience dans les médias et la génération de contenus digitaux, ancienne bénévole pour des associations de lutte contre les discriminations et d'accès à la culture, je suis également pianiste, guitariste, férue d'astro, de tattoos, de lecture.
-<br/>
 
 ***
-<br/>
-
 
 ### I'm Julie and I'm a future software developer!
 
