@@ -26,7 +26,7 @@ _--English to follow-->_
 
 - 🌱 I’m learning HTML, CSS, JavaScript, Python, PHP, SQL...
 
-- 👯 I’m working on group full-stack project (front-end & back-end).
+- 👯 I’m working on group full-stack projects (front-end & back-end).
 
 - 📫 How to reach me: jem.baret@gmail.com
 
