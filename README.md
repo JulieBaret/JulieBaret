@@ -5,7 +5,7 @@ _--English to follow-->_
 
 - 😄 Pronoms : Elle/She/Her
 
-- 🤸‍♂️ J'étudie le développement informatique à Ada Tech School, __une école de code inclusive et féministe !__
+- 🤸‍♂️ J'étudie le développement informatique à [Ada Tech School](https://adatechschool.fr/), __une école de code inclusive et féministe !__
 
 - 🌱 J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
 
@@ -13,7 +13,7 @@ _--English to follow-->_
 
 - 🛹 Je recherche __une alternance en entreprise__ pour compléter ma formation, à compter de mars 2023.
 
-- 📫 Me contacter : jem.baret@gmail.com
+- 📫 Me contacter : [jem.baret@gmail.com](mailto:jem.baret@gmail.com)
 
 - ⚡ À propos : Riche d'expérience dans les médias et la génération de contenus digitaux, ancienne bénévole pour des associations de lutte contre les discriminations et d'accès à la culture, je suis également pianiste, guitariste, férue d'astro, de tattoos, de lecture.
 
@@ -39,6 +39,6 @@ _--English to follow-->_
 
 - 🛹 I'm looking for an __intership__ from march 2023 to march 2024.
 
-- 📫 How to reach me: jem.baret@gmail.com
+- 📫 How to reach me: [jem.baret@gmail.com](mailto:jem.baret@gmail.com)
 
 - ⚡ Fun fact: As a former journalist, I do have experience in digital content and in the media industry, but also in caritative institutions engaged against discriminations or improving access to culture. I'm also a piano and a guitar player. I love astrology, tattoo art and reading.
