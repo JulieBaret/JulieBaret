@@ -1,44 +1,30 @@
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Hi there, I'm Julie! 👋</h1>
 
-_--English to follow-->_
-### Je m'appelle Julie et je suis une développeuse en devenir !
+### Frontend Engineer passionate about good practices, good UX, and inclusive tech 👩🏻‍💻
 
-- 😄 Pronoms : Elle/She/Her
+- 🤸‍♀️ Studied software engineering at [Ada Tech School](https://adatechschool.fr/)
 
-- 🤸‍♂️ J'étudie le développement informatique à [Ada Tech School](https://adatechschool.fr/), __une école de code inclusive et féministe !__
+- 🌱 Worked few years on user-centric projects at startups
 
-- 🌱 J'apprends plusieurs langages de programmation : HTML, CSS, JavaScript, Python, PHP, SQL...
+- 🛹 Currently looking for my next adventure and ready to bring curiosity, energy & experience to a fantastic team
+ 
+- 📫 You can reach me at [julie.baret@etik.com](mailto:julie.baret@etik.com)
 
-- 👯 Mon apprentissage repose sur __une succession de projets__ complets (front-end & back-end).
+- ⚡ Fun fact: As a former journalist, I do have experience in digital content and in the media industry, but also in caritative institutions engaged against discriminations or improving access to culture. I also play piano and guitar, 📚 read a lot, ✨ love astrology and 🖤 tattoo art
 
-- 🛹 Je recherche __une alternance en entreprise__ pour compléter ma formation, à compter de mars 2023.
-
-- 📫 Me contacter : [jem.baret@gmail.com](mailto:jem.baret@gmail.com)
-
-- ⚡ À propos : Riche d'expérience dans les médias et la génération de contenus digitaux, ancienne bénévole pour des associations de lutte contre les discriminations et d'accès à la culture, je suis également pianiste, guitariste, férue d'astro, de tattoos, de lecture.
-
-<h4 align="left">Mon profil LinkedIn :</h4>
+<h4 align="left">Tech Stack</h4>
 <p align="left">
-<a href="https://linkedin.com/in/julie-baret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliebaret" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
 </p>
 
-<h4 align="left">Langages & Technos :</h4>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-***
-
-### I'm Julie and I'm a future software developer!
-
-- 😄 Pronouns: She/Her/Elle
-
-- 🤸‍♂️ I’m studying software development at Ada Tech School, an __inclusive & feminist school!__
-
-- 🌱 I’m learning HTML, CSS, JavaScript, Python, PHP, SQL...
-
-- 👯 I’m working on group __full-stack projects__ (front-end & back-end).
-
-- 🛹 I'm looking for an __intership__ from march 2023 to march 2024.
-
-- 📫 How to reach me: [jem.baret@gmail.com](mailto:jem.baret@gmail.com)
-
-- ⚡ Fun fact: As a former journalist, I do have experience in digital content and in the media industry, but also in caritative institutions engaged against discriminations or improving access to culture. I'm also a piano and a guitar player. I love astrology, tattoo art and reading.
+Thanks for stopping by — let’s make the web a better place together 🌍💫
