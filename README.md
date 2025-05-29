@@ -27,4 +27,4 @@
 
 ---
 
-Thanks for stopping by and let’s make the web a better place together 🌍💫
+Thanks for stopping by 🌍💫
