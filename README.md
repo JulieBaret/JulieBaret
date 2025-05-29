@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Julie! 👋</h1>
 
-### Frontend Engineer driven by good practices, good UX, and inclusive tech 👩🏻‍💻
+### Frontend Engineer driven by good practices, great UX, and inclusive tech 👩🏻‍💻
 
 - 🤸‍♀️ Studied software engineering at [Ada Tech School](https://adatechschool.fr/)
 
